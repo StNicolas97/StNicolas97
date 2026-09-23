@@ -76,30 +76,6 @@ Je suis un développeur full-stack junior avancé spécialisé dans la création
 
 ---
 
-## 📈 Par les chiffres
-- **100+** missions freelance complétées
-- **2** SaaS en production
-- **5+** technologies backend maîtrisées
-- **6** mois d'expérience en gestion d'équipe
-
----
-
-## 🎓 Formation & Certifications
-- **Baccalauréat en Génie Logiciel** — Institut Africain d'Informatique (2019)
-- **Technique Informatique** — CÉGEP de Granby (en cours)
-- **Google Academy** — Certification Data Analyst (2024)
-- **University of Hong-Kong** — Certification Angular (en cours)
-
----
-
-## 🤝 Cherche à collaborer sur
-- ✨ Projets full-stack ambitieux
-- 🚀 Startups et PME en croissance
-- 💡 Applications d'impact social ou commercial
-- 🔧 Missions freelance (développement, refonte, support)
-
----
-
 ## 📬 Contact & Réseaux
 
 📧 **Email :** fabrice.basson@gmail.com  
