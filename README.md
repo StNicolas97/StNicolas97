@@ -78,11 +78,8 @@ Je suis un développeur full-stack junior avancé spécialisé dans la création
 
 ## 📬 Contact & Réseaux
 
-📧 **Email :** fabrice.basson@gmail.com  
-📱 **Tel :** +1 819-524-3715  
 🔗 **LinkedIn :** [Nicolas Basson](https://www.linkedin.com/in/nicolas-basson-0a1b011a3/)  
-💻 **GitHub :** [@StNicolas97](https://github.com/StNicolas97)  
-🌍 **Portfolio :** [En développement]
+
 
 ---
 
