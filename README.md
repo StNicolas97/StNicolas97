@@ -1,12 +1,13 @@
-# 👋 Nicolas Basson | Full-Stack Developer
+# Nicolas Basson 
+## Full-Stack Developer
 
-**Développeur full-stack passionné** | 100+ projets livrés | Stack moderne
+**Développeur full-stack passionné**
 
 ---
 
 ## 🎯 À propos de moi
 
-Je suis un développeur full-stack junior avancé spécialisé dans la création d'applications web scalables. Avec plus de **100 missions freelance** complétées et plusieurs **SaaS en production**, je maîtrise l'intégralité du cycle de développement : du design UX à la gestion de bases de données.
+Je suis un développeur full stack spécialisé dans la création d'applications web scalables. Avec plusieurs missions freelances complétées. Je maîtrise l'intégralité du cycle de développement : de la capture des besoins jusqu'au déploiements en production.
 
 **Curieux**, **autonome** et **rigoureux** — je m'engage à livrer du code propre, testé et maintenable.
 
@@ -30,7 +31,6 @@ Je suis un développeur full-stack junior avancé spécialisé dans la création
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -39,40 +39,13 @@ Je suis un développeur full-stack junior avancé spécialisé dans la création
 
 ---
 
-## 💼 Expérience Clé
+## Projets Phares
 
-**Freelance (Comeup, Fiverr)** — 100+ missions
-- ✅ Développement/refonte de boutiques e-commerce (Shopify, WooCommerce, PrestaShop)
-- ✅ API REST, CRM, chatbots, intégrations
-- ✅ Note moyenne : 4.9/5 ⭐
-
-**Développeur Full-Stack**
-- SaaS immobilier en production (TANAP) — React, Node, PostgreSQL
-- CRM 360AutoWrap — Vue 3, Node, PostgreSQL
-- Applications de gestion (parc auto, paie, tâches)
-
-**Management & Leadership**
-- Gestion d'équipes (8+ personnes) à Alvida Hotel
-- Tuteur académique en programmation au CÉGEP
-- Support technique à Carrefour TIC
-
----
-
-## 🚀 Projets Phares
-
-### TANAP — SaaS Immobilier
-**Tech :** React, Node.js, Express, PostgreSQL, Docker  
-**Impact :** Plateforme de location/vente pour le marché camerounais  
-🔗 [Voir le projet](https://github.com/StNicolas97)
 
 ### CRM 360AutoWrap
 **Tech :** Vue 3, Node.js, PostgreSQL, Figma  
 **Impact :** Gestion de 100+ tâches pour équipe de 5+ employés  
-🔗 [Voir le projet](https://github.com/StNicolas97)
-
-### API REST avec MongoDB
-**Tech :** Node.js, Express, MongoDB, Docker  
-🔗 [Voir le code](https://github.com/StNicolas97)
+🔗 [Voir le projet](https://github.com/StNicolas97](https://360autowrapcrm.netlify.app)
 
 ---
 
