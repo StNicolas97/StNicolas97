@@ -1,11 +1,11 @@
 # Nicolas Basson 
-## Full-Stack Developer
+
 
 **Développeur full-stack passionné**
 
 ---
 
-## 🎯 À propos de moi
+## À propos de moi
 
 Je suis un développeur full stack spécialisé dans la création d'applications web scalables. Avec plusieurs missions freelances complétées. Je maîtrise l'intégralité du cycle de développement : de la capture des besoins jusqu'au déploiements en production.
 
@@ -13,7 +13,7 @@ Je suis un développeur full stack spécialisé dans la création d'applications
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -45,7 +45,7 @@ Je suis un développeur full stack spécialisé dans la création d'applications
 ### CRM 360AutoWrap
 **Tech :** Vue 3, Node.js, PostgreSQL, Figma  
 **Impact :** Gestion de 100+ tâches pour équipe de 5+ employés  
-🔗 [Voir le projet](https://github.com/StNicolas97](https://360autowrapcrm.netlify.app)
+🔗 (https://github.com/StNicolas97](https://360autowrapcrm.netlify.app)
 
 ---
 
