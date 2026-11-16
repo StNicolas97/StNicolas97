@@ -9,7 +9,7 @@
 
 Je suis un développeur full stack spécialisé dans la création d'applications web scalables. Avec plusieurs missions freelances complétées. Je maîtrise l'intégralité du cycle de développement : de la capture des besoins jusqu'au déploiements en production.
 
-##PortFolio : https://nicobass-dev.netlify.app/
+## PortFolio : https://nicobass-dev.netlify.app/
 
 **Curieux**, **autonome** et **rigoureux** — je m'engage à livrer du code propre, testé et maintenable.
 
