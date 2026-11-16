@@ -5,7 +5,7 @@
 
 ---
 
-## À propos de moi
+### À propos de moi
 
 Je suis un développeur full stack spécialisé dans la création d'applications web scalables. Avec plusieurs missions freelances complétées. Je maîtrise l'intégralité du cycle de développement : de la capture des besoins jusqu'au déploiements en production.
 
